@@ -1,7 +1,7 @@
 # Lostware
 A Bug Fixing and Code Adding Tool for Malware.
 
-# 👨‍💻Status
+# 👨‍💻 Status
 Lostware is currently under development, will be pushed to GitHub soon, along with Alpha & Beta releases before the full release, as well as Alpha (maybe) and Beta/Test Build releases after the first release.
 
 # Version
